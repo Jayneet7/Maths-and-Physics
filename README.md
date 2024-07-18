@@ -1,7 +1,5 @@
 # Maths-and-Physics
-5 Different scenes for each function.
-
-Here, I Created 5 different scenes for maths and physics. let me explain each one,
+Here, I Created 5 different scenes for maths and physics. let me explain each one, 5 Different game scenes for each function.
 
 1. FPS (Name of the scene)
   
